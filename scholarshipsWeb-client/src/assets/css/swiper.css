@@ -1,0 +1,11 @@
+.swiper{
+    margin: auto;
+    margin-bottom: 20px;
+    border: 0px solid #000;
+    width: 100%;
+    
+    
+  }
+  .swiper img{
+      width: 100%;
+  }
